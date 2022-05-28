@@ -1,0 +1,60 @@
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/bin/Debug/net6.0/ref/TuEnvio.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/bin/Debug/net6.0/ref/TuEnvio.dll
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll
+C:/Users/Leynier/Desktop/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/refint/TuEnvio.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/refint/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/refint/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll

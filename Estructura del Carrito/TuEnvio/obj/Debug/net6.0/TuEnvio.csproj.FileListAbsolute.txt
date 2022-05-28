@@ -1,0 +1,12 @@
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.deps.json
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/bin/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.AssemblyReference.cache
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfoInputs.cache
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.AssemblyInfo.cs
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.csproj.CoreCompileInputs.cache
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/refint/TuEnvio.dll
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Escritorio/TuEnvio/TuEnvio/obj/Debug/net6.0/ref/TuEnvio.dll

@@ -1,0 +1,90 @@
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/Tester
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/Tester.deps.json
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/Tester.runtimeconfig.json
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/Tester.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/ref/Tester.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/Tester.pdb
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.pdb
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.AssemblyReference.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfoInputs.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfo.cs
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CoreCompileInputs.cache
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CopyComplete
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/ref/Tester.dll
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.pdb
+/home/apiad/Documents/MatCom/Ciencia de la Computación/Programación/Conferencias/exams/2022-02-23/TuEnvio/Tester/obj/Debug/net6.0/Tester.genruntimeconfig.cache
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/Tester.exe
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/Tester.deps.json
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/Tester.runtimeconfig.json
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/Tester.dll
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/ref/Tester.dll
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/Tester.pdb
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.dll
+C:/Users/Leynier/Desktop/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.pdb
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.AssemblyReference.cache
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfoInputs.cache
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfo.cs
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CoreCompileInputs.cache
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CopyComplete
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.dll
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/ref/Tester.dll
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.pdb
+C:/Users/Leynier/Desktop/TuEnvio/Tester/obj/Debug/net6.0/Tester.genruntimeconfig.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.deps.json
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.runtimeconfig.json
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.AssemblyReference.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfoInputs.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfo.cs
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CoreCompileInputs.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CopyComplete
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/refint/Tester.dll
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.pdb
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.genruntimeconfig.cache
+/media/cmglezpdev/Work/MATCOM/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/ref/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.deps.json
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.runtimeconfig.json
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/Tester.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/bin/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.AssemblyReference.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfoInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.AssemblyInfo.cs
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CoreCompileInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.csproj.CopyComplete
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/refint/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/Tester.genruntimeconfig.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/Programacion/Pruebas y recursos/TuEnvio/Tester/obj/Debug/net6.0/ref/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/Tester
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/Tester.deps.json
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/Tester.runtimeconfig.json
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/Tester.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/TuEnvio.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/bin/Debug/net6.0/TuEnvio.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.csproj.AssemblyReference.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.AssemblyInfoInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.AssemblyInfo.cs
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.csproj.CoreCompileInputs.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.csproj.CopyComplete
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/refint/Tester.dll
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.pdb
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/Tester.genruntimeconfig.cache
+/home/cmglezpdev/Matcom/Ciber 1ro/TuEnvio_2TC_2020-2021_MY_SOL/Tester/obj/Debug/net6.0/ref/Tester.dll
